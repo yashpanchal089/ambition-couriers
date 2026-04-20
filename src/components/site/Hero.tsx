@@ -35,7 +35,7 @@ const Hero = () => {
             <p className="text-lg text-muted-foreground max-w-xl leading-relaxed">
               Ship faster, smarter, and more efficiently with{" "}
               <span className="font-semibold text-foreground">41,000+ serviceable pin codes</span> and
-              India's leading courier partners — all from one dashboard.
+              India's leading courier partners all from one dashboard.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-3">
